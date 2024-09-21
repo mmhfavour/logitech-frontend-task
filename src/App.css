@@ -1,0 +1,4 @@
+#slider-container {
+  left: 0%;
+  transition: left .3s ease-out;
+}
